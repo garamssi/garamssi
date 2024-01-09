@@ -1,5 +1,7 @@
 <!--타이틀 부분-->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90"/>
+</div>
 <br>
 
 <!--내용 부분-->

@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  <h1 align="center"> Welcome </h1>
+  <h1 align="center"> Welcome to </h1>
 </div>
+<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -12,17 +13,17 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-DB7093?style=for-the-badge&logo=java&logoColor=blue" />&nbsp
-  <img src="https://img.shields.io/badge/spring-1daabb.svg?style=for-the-badge&logo=spring&logoColor=green" />&nbsp
+  <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=blue" />&nbsp
+  <img src="https://img.shields.io/badge/spring-1daabb.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=docker&logoColor=blue" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-150458.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Redis-4d77cf.svg?style=for-the-badge&logo=redis&logoColor=red" />&nbsp
-  <img src="https://img.shields.io/badge/kafka-4d77cf.svg?style=for-the-badge&logo=kafka&logoColor=orange" />&nbsp
+  <img src="https://img.shields.io/badge/kafka-FF6D0A.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Nginx-11557c.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
 </div>
 
@@ -30,9 +31,8 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/대용량 아키텍처-FF4154?style=for-the-badge&logo=architecture&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/토비의 스프링-3578E5?style=for-the-badge&logo=spring&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/대용량 아키텍처-FF4154?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/토비의 스프링-3578E5?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
 <br>

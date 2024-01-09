@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <h1 align="center"> Welcome to Garam Github </h1>
+  <h1 align="center"> Welcome!!</h1>
 </div>
 <br>
 

@@ -1,19 +1,19 @@
 <!--타이틀 부분-->
 <div align="center">
-  <h1 align="center"> Welcome to </h1>
+  <h1 align="center"> Welcome to Garam Github </h1>
 </div>
 <br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/vue-20232a.svg?style=for-the-badge&logo=vue3&logoColor=#4FC08D" />&nbsp
+  <img src="https://img.shields.io/badge/vue-194d33.svg?style=for-the-badge&logo=vue3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=blue" />&nbsp
+  <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-1daabb.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />&nbsp
 </div>
 
@@ -49,7 +49,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="[https://velog.io/@oka1313](https://wise-dev-life.tistory.com/)">
+  <a href="https://wise-dev-life.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:2garamssi@gmail.com">

@@ -7,7 +7,8 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/vue-194d33.svg?style=for-the-badge&logo=vue3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vue-9dd84b.svg?style=for-the-badge&logo=vue&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/nuxt-009630.svg?style=for-the-badge&logo=nuxt&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
 </div>

@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <h1 align="center"> Welcome!!</h1>
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 </div>
 <br>
 

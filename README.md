@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <h1 align="center"> Welcome </h1>
 </div>
 
 <!--내용 부분-->
@@ -31,8 +31,8 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   
-  <img src="https://img.shields.io/badge/대용량 아키텍처%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/토비의 스프링-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/대용량 아키텍처-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/토비의 스프링-3578E5?style=for-the-badge&logo=recoil&logoColor=white" /> &nbsp
 </div>
 
 <br>

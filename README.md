@@ -16,6 +16,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-1daabb.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />&nbsp
+  <img src="https://img.shields.io/badge/springboot-1daabb.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />&nbsp
+  <img src="https://img.shields.io/badge/JPA-blue.svg?style=for-the-badge&logo=jpa&logoColor=black" />&nbsp
 </div>
 
 <br>

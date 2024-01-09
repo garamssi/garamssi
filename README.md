@@ -12,18 +12,18 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-DB7093?style=for-the-badge&logo=styled-components&logoColor=blue" />&nbsp
+  <img src="https://img.shields.io/badge/java-DB7093?style=for-the-badge&logo=java&logoColor=blue" />&nbsp
   <img src="https://img.shields.io/badge/spring-1daabb.svg?style=for-the-badge&logo=spring&logoColor=green" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=python&logoColor=blue" />&nbsp
-  <img src="https://img.shields.io/badge/kubernetes-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Redis-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=red" />&nbsp
-  <img src="https://img.shields.io/badge/kafka-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=orange" />&nbsp
-  <img src="https://img.shields.io/badge/Nginx-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=docker&logoColor=blue" />&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-150458.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Redis-4d77cf.svg?style=for-the-badge&logo=redis&logoColor=red" />&nbsp
+  <img src="https://img.shields.io/badge/kafka-4d77cf.svg?style=for-the-badge&logo=kafka&logoColor=orange" />&nbsp
+  <img src="https://img.shields.io/badge/Nginx-11557c.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -31,8 +31,8 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   
-  <img src="https://img.shields.io/badge/대용량 아키텍처-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/토비의 스프링-3578E5?style=for-the-badge&logo=recoil&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/대용량 아키텍처-FF4154?style=for-the-badge&logo=architecture&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/토비의 스프링-3578E5?style=for-the-badge&logo=spring&logoColor=white" /> &nbsp
 </div>
 
 <br>
@@ -50,7 +50,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="[https://velog.io/@oka1313](https://wise-dev-life.tistory.com/)">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:2garamssi@gmail.com">
     <img

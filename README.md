@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME&fontSize=90"/>
 </div>
 
-<br><br><br>
+<br>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/vue-9dd84b.svg?style=for-the-badge&logo=vue&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/nuxt-009630.svg?style=for-the-badge&logo=nuxt&logoColor=white" />&nbsp
@@ -33,7 +33,7 @@
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/대용량 아키텍처-FF4154?style=for-the-badge&logo=architecture&logoColor=white" />
   <img src="https://img.shields.io/badge/토비의 스프링-3578E5?style=for-the-badge&logo=spring&logoColor=white" />
@@ -51,7 +51,7 @@
 <br>
 -->
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">Contact 📫</h3>
 <div align="center">
   <a href="https://wise-dev-life.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp

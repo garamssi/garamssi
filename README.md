@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/JPA-blue.svg?style=for-the-badge&logo=jpa&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/mybatis-black.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/oracle-gray?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+</div>
 
 <br>
 

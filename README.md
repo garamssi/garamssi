@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/kubernetes-150458.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
+<!--   <img src="https://img.shields.io/badge/kubernetes-150458.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp -->
   <img src="https://img.shields.io/badge/Redis-4d77cf.svg?style=for-the-badge&logo=redis&logoColor=red" />&nbsp
   <img src="https://img.shields.io/badge/kafka-FF6D0A.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Nginx-11557c.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
@@ -56,9 +56,9 @@
 
 <h3 align="center">Contact 📫</h3>
 <div align="center">
-  <a href="https://wise-dev-life.tistory.com/">
+<!--   <a href="https://wise-dev-life.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
-  </a>
+  </a> -->
   <a href="mailto:2garamssi@gmail.com">
     <img
       src="https://img.shields.io/badge/2garamssi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp

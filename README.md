@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 <!--   <img src="https://img.shields.io/badge/kubernetes-150458.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp -->
   <img src="https://img.shields.io/badge/Redis-4d77cf.svg?style=for-the-badge&logo=redis&logoColor=red" />&nbsp
-  <img src="https://img.shields.io/badge/kafka-FF6D0A.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp
+<!--   <img src="https://img.shields.io/badge/kafka-FF6D0A.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp -->
   <img src="https://img.shields.io/badge/Nginx-11557c.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
 </div>
 

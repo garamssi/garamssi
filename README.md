@@ -39,7 +39,9 @@
 <h3 align="center">Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/대용량 아키텍처-FF4154?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/토비의 스프링-3578E5?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real MySQL8.0-3578E5?style=for-the-badge&logo=mysql&logoColor=orange" />
+  <img src="https://img.shields.io/badge/네트워크(하향식)-3578E5?style=for-the-badge&logo=network&logoColor=blue" />
+  <img src="https://img.shields.io/badge/데이터 엔니지어링-3578E5?style=for-the-badge&logo=data&logoColor=yellow" />
 </div>
 
 <br>

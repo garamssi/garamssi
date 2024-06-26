@@ -38,10 +38,10 @@
 
 <h3 align="center">Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/대용량 아키텍처-FF4154?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Real MySQL8.0-3578E5?style=for-the-badge&logo=mysql&logoColor=orange" />
-  <img src="https://img.shields.io/badge/DevOops-3578E5?style=for-the-badge&logo=cd&logoColor=red" />
-  <img src="https://img.shields.io/badge/Python-3578E5?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/대용량%20아키텍처-FF4154?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real%20MySQL%208.0-3578E5?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-F08080?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3578E5?style=for-the-badge&logo=python&logoColor=yellow" />
 </div>
 
 <br>

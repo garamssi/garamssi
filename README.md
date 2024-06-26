@@ -13,11 +13,12 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JPA-007396.svg?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MyBatis-000000.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
 </div>
 
 <div align="center">
@@ -42,6 +43,7 @@
   <img src="https://img.shields.io/badge/Real%20MySQL%208.0-3578E5?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-F08080?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3578E5?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />&nbsp;
 </div>
 
 <br>
@@ -61,7 +63,7 @@
 <!--   <a href="https://wise-dev-life.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
   </a> -->
-  <a href="mailto:2garamssi@gmail.com">
+  <a href="mailto:garamcreer@gmail.com">
     <img
       src="https://img.shields.io/badge/2garamssi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>

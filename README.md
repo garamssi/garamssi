@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />&nbsp;
 </div>
 
 
@@ -43,7 +44,6 @@
   <img src="https://img.shields.io/badge/Real%20MySQL%208.0-3578E5?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-F08080?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3578E5?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />&nbsp;
 </div>
 
 <br>

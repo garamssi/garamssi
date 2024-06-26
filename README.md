@@ -6,33 +6,33 @@
 <!--내용 부분-->
 <h3 align="center">Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/vue-9dd84b.svg?style=for-the-badge&logo=vue&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/nuxt-009630.svg?style=for-the-badge&logo=nuxt&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring-1daabb.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-1daabb.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />&nbsp
-  <img src="https://img.shields.io/badge/JPA-blue.svg?style=for-the-badge&logo=jpa&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/mybatis-black.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JPA-007396.svg?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MyBatis-000000.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp;
 </div>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/oracle-gray?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-<!--   <img src="https://img.shields.io/badge/kubernetes-150458.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp -->
-  <img src="https://img.shields.io/badge/Redis-4d77cf.svg?style=for-the-badge&logo=redis&logoColor=red" />&nbsp
-<!--   <img src="https://img.shields.io/badge/kafka-FF6D0A.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp -->
-  <img src="https://img.shields.io/badge/Nginx-11557c.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;
 </div>
+
 
 <br>
 

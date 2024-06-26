@@ -63,9 +63,9 @@
 <!--   <a href="https://wise-dev-life.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
   </a> -->
-  <a href="mailto:garamcreer@gmail.com">
+  <a href="mailto:garamcareer@gmail.com">
     <img
-      src="https://img.shields.io/badge/2garamssi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/garamcareer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 

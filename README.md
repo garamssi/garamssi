@@ -2,22 +2,28 @@
 
 ### Main Stack
 <div align="center">
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/java.png" alt="Java" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/spring.png" alt="Spring" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/mysql.png" alt="MySQL" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/spring-security.png" alt="Spring Security" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/spring-data-jpa.png" alt="Spring Data JPA" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/aws-ec2.png" alt="AWS EC2" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/aws-rds.png" alt="AWS RDS" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/jwt.png" alt="JWT" height="50px"/>
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/-JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
 </div>
 
 ### Learning & Developing
 <div align="center">
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/docker.png" alt="Docker" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/github-actions.png" alt="GitHub Actions" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/linux.png" alt="Linux" height="50px"/>
-  <img src="https://raw.githubusercontent.com/garamssi/garamssi/main/icons/nginx.png" alt="Nginx" height="50px"/>
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 </div>
 
 ## 📊 GitHub Statistics

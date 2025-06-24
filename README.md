@@ -20,8 +20,6 @@
 
 <div align="center">
 
-### GitHub Activity & Languages
-
 <table>
   <tr>
     <td align="center">
@@ -32,19 +30,3 @@
     </td>
   </tr>
 </table>
-
-### 📈 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=garamssi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="600"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Full-Stack Developer** | **Clean Code** | **DDD** | **Application Architecture**
-
-*Java • Spring Boot • Vue.js • MySQL*
-
-</div>

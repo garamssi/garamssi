@@ -27,16 +27,17 @@
 <br>
 -->
 
-### Statistics
-<div>
-<div>
-  <img alt = "stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=garamssi&show_icons=true&theme=holi" width = "49%" height="130%" />
-<!--   <img alt="algorithms" src = "http://mazassumnida.wtf/api/generate_badge?boj=garamssi" width="42%" height="100%"/> -->
-</div>
-<br>
-<div>
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=garamssi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-</div>
+📊 GitHub Statistics
+<div align="center">
+🔥 GitHub Activity & Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=garamssi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garamssi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&langs_count=8&layout=compact&hide_border=true" width="49%" alt="Top Languages"/>
+</p>
+📈 Contribution Streak
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garamssi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</p>
 </div>
 
 <br/>

@@ -15,7 +15,4 @@
 </div>
 
 ## GitHub Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garamssi)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garamssi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&langs_count=8&layout=compact&hide_border=true&cache_seconds=7200" alt="Top Languages" height="180"/>
-</div>
+[![GR GitHub stats](https://github-readme-stats.vercel.app/api?username=garamssi)](https://github.com/anuraghazra/github-readme-stats)

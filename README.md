@@ -14,8 +14,7 @@
 
 </div>
 
-## GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garamssi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="garamssi's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garamssi&layout=compact&theme=tokyonight" alt="garamssi's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=garamssi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="garamssi's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garamssi&layout=compact&theme=tokyonight" alt="garamssi's Top Langs" height="150" />
 </p>

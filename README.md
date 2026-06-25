@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,vue,postgres,redis,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,js,vue,react,postgres,redis,aws,docker" />
 </p>
 
 <br/>

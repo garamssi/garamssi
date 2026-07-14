@@ -16,9 +16,5 @@
 
 <br/>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=garamssi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garamssi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=garamssi&theme=tokyonight&hide_border=true&background=1A1B27" />
 </p>
